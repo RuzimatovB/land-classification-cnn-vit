@@ -61,4 +61,9 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 - Deep Learning (CNN, ViT, Hybrid Models)  
 - TensorFlow & PyTorch  
 - Model Training & Evaluation Pipelines  
-- AI Engineering (end-to-end workflows)  
+- AI Engineering (end-to-end workflows)
+
+---
+
+## 📌 Attribution Note
+This project was inspired by an assignment from the IBM AI Engineering Professional Certificate (Coursera/IBM). The original exercise provided the problem statement and baseline structure. I extended and modified the code, added explanations, and documented results to create a polished project for my portfolio.
