@@ -22,8 +22,8 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ai-land-classification-cnn-vit.git
-   cd ai-land-classification-cnn-vit
+   git clone https://github.com/<your-username>/land-classification-cnn-vit.git
+   cd land-classification-cnn-vit
    ```
 
 2. Install dependencies:
@@ -33,7 +33,7 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Land_Classification_CNN_ViT_Cleaned.ipynb
+   jupyter notebook Land_Classification_using_CNN-ViT_Integration.ipynb
    ```
 
 ---
